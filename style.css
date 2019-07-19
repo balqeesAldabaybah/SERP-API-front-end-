@@ -1,0 +1,58 @@
+div.center{
+    align-content: center;
+    text-align: center
+}
+body{
+    background-image: url('background2.jpg')
+}
+
+div.results{
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-top: 0.5em
+}
+
+div.header{
+    margin-left: 5em;
+    margin-right: 5em;
+    color: #337ab7
+}
+
+.form-user-style{
+    background-color: #337ab7;
+    margin-left: 5em;
+    margin-right: 5em;
+    padding: 5em
+}
+
+form{
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
+ .row {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-left:1em;
+    margin-right:1em;
+    margin-bottom: 1em
+}
+
+.card,.card-header{
+    border-radius: 10px;
+    padding:1em;
+    background-color: lightblue
+}
+
+.rel-links{
+    text-align: left;
+    margin:1em;
+    background-color: lightgray;
+    padding: 1em;
+   
+    border-radius: 10px
+}
+
+#rl{
+    color: white
+}
